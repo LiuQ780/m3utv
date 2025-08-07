@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1,凤凰卫视资讯台
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+
+#EXTINF:-1,RTI 臺灣之音
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
+
+#EXTINF:-1,神州之聲
+https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5
+
+#EXTINF:-1,新竹勞工之聲
+http://202.39.43.67:1935/live/RA000101/chunklist.m3u8
+
+#EXTINF:-1,NER教育電臺
+https://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+
+#EXTINF:-1,每日廣播公司SAKURA RADIO
+http://test.taiwan-radio.tw:8000/TC.FM98.7
+
+#EXTINF:-1,台中城市廣播
+http://fm901.cityfm.tw:8080/901.mp3
+
+#EXTINF:-1,教育廣播電臺-臺北總臺FM臺
+https://cast.ner.gov.tw/1
+
+#EXTINF:-1,Big B Radio亚洲音乐台
+https://antares.dribbcast.com/proxy/apop?mp=/s
+
+#EXTINF:-1,BRTV北京交通广播
+https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
+
+#EXTINF:-1,CMG环球资讯广播
+https://sk.cri.cn/905.m3u8
+
+#EXTINF:-1,CNR-16 中国乡村之声
+http://satellitepull.cnr.cn/live/wxxczs/playlist.m3u8?wsSession=91f6d734b85656e7f586e4ea-174708860424584&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
+
+#EXTINF:-1,CNR-4 经典音乐广播
+http://satellitepull.cnr.cn/live/wxdszs/playlist.m3u8?wsSession=d8a4b41c6557ba30cfeebcdb-174709298057895&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
+
+#EXTINF:-1,CRI HIT FM 国际流行音乐广播
+http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174717975642078&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
+
+#EXTINF:-1,CRI Voice of South China Sea
+http://sk.cri.cn/nhzs.m3u8
+
+#EXTINF:-1,CRI世界华声
+http://sk.cri.cn/hxfh.m3u8
+
+#EXTINF:-1,CRI中文环球广播·CRI chinese service
+http://sk.cri.cn/hyhq.m3u8
+
+#EXTINF:-1,Fred Film Radio - 普通话
+https://s10.webradio-hosting.com/proxy/fredradiocn/stream/;
+
+#EXTINF:-1,Hit FM台北之音廣播
+http://202.39.43.67:1935/live/RA000036/chunklist.m3u8
+
+#EXTINF:-1,Needs Radio 全球華語廣播網
+https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8
+
+#EXTINF:-1,Peony River Life Story Radio
+http://lhttp.qingting.fm/live/5022435/64k.mp3
+
+#EXTINF:-1,Sichuan News 四川综合广播FM98.1
+https://lhttp.qingting.fm/live/4906/64k.mp3
+
+#EXTINF:-1,中卫广播电视台 综合广播
+https://live.ximalaya.com/radio-first-page-app/live/2400/64.m3u8?transcode=ts
+
+#EXTINF:-1,云南国际广播 Yunnan International Radio
+https://gbw.ynradio.cn/radio/gjgb.stream/playlist.m3u8
+
+#EXTINF:-1,云南民族广播
+https://gbw.ynradio.cn/radio/mzgb.stream/playlist.m3u8
+
+#EXTINF:-1,先聲廣播電台 (基北桃竹苗)
+http://43.254.16.40:8000/TY.AM774
+
+#EXTINF:-1,光华之声（测试）
+http://202.39.43.67:1935/live/RA000077/playlist.m3u8
+
+#EXTINF:-1,内蒙古评书曲艺广播
+https://lhttp-hw.qtfm.cn/live/1887/64k.mp3
+
+#EXTINF:-1,法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+
+#EXTINF:-1,VOV5 WORLD RADIO
+https://stream.vovmedia.vn/vov5
+
+#EXTINF:-1,CNR-1 中国之声
+https://lhttp.qtfm.cn/live/15318317/64k.mp3
+
+#EXTINF:-1,CNR-2 经济之声
+https://satellitepull.cnr.cn/live/wxjjzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908108209742&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+
+#EXTINF:-1,CNR-3 音乐之声
+https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
+
+#EXTINF:-1,CNR-9 文艺之声
+http://satellitepull.cnr.cn/live/wxwyzs/playlist.m3u8?wsSession=d8b4488aebb72eb396f72a83-174705706427289&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
+
+#EXTINF:-1,北京文艺广播
+https://lhttp.qtfm.cn/live/333/64k.mp3
+
+#EXTINF:-1,山东文艺广播
+https://lhttp.qtfm.cn/live/20238/64k.mp3
+
+#EXTINF:-1,河北文艺广播 高清
+https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174814121476253&wsIPSercert=302e928c9e06924943d63c021170d763
+
+#EXTINF:-1,辽宁乡村广播
+https://lhttp.qtfm.cn/live/20018/64k.mp3
+
+#EXTINF:-1,潍坊音乐文旅广播
+https://lhttp-hw.qtfm.cn/live/15318631/64k.mp3
+
+#EXTINF:-1,河北旅游广播Hopei Travel Radio
+http://ls.qingting.fm/live/1651.m3u8
+
+#EXTINF:-1,天津新闻广播
+https://lhttp-hw.qtfm.cn/live/5022134/64k.mp3
+
+#EXTINF:-1,天津经济广播
+https://lhttp-hw.qtfm.cn/live/15318227/64k.mp3
+
+#EXTINF:-1,安徽戏曲广播 高清
+http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174830342984889&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8
+
+#EXTINF:-1,廊坊戏曲广播·飞扬105
+http://lhttp.qingting.fm/live/20211678/64k.mp3
+
+#EXTINF:-1,河南戏曲广播
+https://stream.hndt.com/live/yule/playlist.m3u8
+
+#EXTINF:-1,CCTV-4中文国际伴音
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+
+#EXTINF:-1,国际新闻
+https://lhttp.qtfm.cn/live/20500172/64k.mp3
+
+#EXTINF:-1,国际旅游岛之声
+http://ls.qingting.fm/live/1862.m3u8
+
+#EXTINF:-1,KBS_kor
+https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-02/1radio-bora-02_hd.m3u8?Expires=1754657995&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDY1Nzk5NX19fV19&Signature=BrG9YQixypjRZu98542T4SPGMYj089RBsVTZMjnZsQFVFk8HdMAmy5Yq9ZxPrg~Xii7aFRgXe5sLERu9NLqrYHtD15zv48P0Gmpv-at-crwPbwonTMvsCFIOztUhfNbf1hvokOC18vlBKkJBRHAVPQGJ-Fe5oyudwWr5Btiwvcak-m0dkVEyVjX8v-2ksctz~x4PinmiyOPhJwdI7l60pmuTkyG6~girs84rB89sqyzGuaCD9rKJBNILZYMMeql8lTt71iXGyHiEr2icCv5s-cXiEHzQya6pjevACoFXkAIwVw0ZBUPen69hxN23i8Aoii0J12BAEdW27WG5qWqLwg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1,BBC中文电台
+https://stream-176.zeno.fm/vmnqf6bplmfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2bW5xZjZicGxtZnZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS0ZXcjhzSEdUS2FKSzhVMWhNMjVMdyIsImlhdCI6MTc1NDU0MTU2MywiZXhwIjoxNzU0NTQxNjIzfQ.XWafEK1AAledHmeBTCJuHI4rhD3qhlCwtK_TrWlMy5E
+
+#EXTINF:-1,BBN 中文
+https://audio-edge-hy4wy.blr.d.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f
+
+#EXTINF:-1,Fred Film Radio(中文)
+https://s10.webradio-hosting.com/proxy/fredradiocn/stream
+
+#EXTINF:-1,KVTO AM1400 FM93.7 旧金山湾区中文电台
+https://us2.maindigitalstream.com/ssl/KVTO
+
+#EXTINF:-1,凤凰卫视中文台
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+
+#EXTINF:-1,加拿大中文电台FM.96.1
+https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+
+#EXTINF:-1,塞浦路斯中文广播
+https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+
+#EXTINF:-1,加拿大中文电台FM94.7
+https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8
+
+#EXTINF:-1,星岛中文电台国语广播
+http://nap.casthost.net:8759/;?icy=http
+
+#EXTINF:-1,星岛中文电台粤语广播
+http://nap.casthost.net:8765/;?icy=http
+
+#EXTINF:-1,CCTV农业节目伴音
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+
+#EXTINF:-1,CCTV奥林匹克伴音
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+
+#EXTINF:-1,CCTV-少儿伴音
+https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+
+#EXTINF:-1,CCTV-8电视剧伴音
+https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+
+#EXTINF:-1,CCTV-5体育伴音
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+
+#EXTINF:-1,CCTV-5+体育赛事伴音
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+
+#EXTINF:-1,CCTV-3综艺伴音
+https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
+
+#EXTINF:-1,CCTV-2财经伴音
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+
+#EXTINF:-1,CCTV-15音乐伴音
+https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+
+#EXTINF:-1,CCTV-13新闻伴音
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+
+#EXTINF:-1,CCTV-12社会与法伴音
+https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+
+#EXTINF:-1,CCTV-11戏曲伴音
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+
+#EXTINF:-1,CCTV-10科教伴音
+https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+
+#EXTINF:-1,SPH 963 Radio
+http://28093.live.streamtheworld.com:80/HAO_963AAC.aac
+
+#EXTINF:-1,YES 933 Radio
+http://28373.live.streamtheworld.com:80/YES933AAC.aac
+
+#EXTINF:-1,Capital 958 Radio
+http://28333.live.streamtheworld.com:80/CAPITAL958FMAAC.aac
+
+#EXTINF:-1,RRI Voice of Indonesia
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+
+#EXTINF:-1,华夏之声China FM·意大利罗马FM89.5
+https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream
+
+#EXTINF:-1,Akashvani Cuttack/Odia
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8
+
+#EXTINF:-1,TRT3
+http://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,LOVE 972
+https://22893.live.streamtheworld.com:443/LOVE972FM_PREM.aac
+
+#EXTINF:-1,Auto FM汽车联播网
+https://lhttp.qtfm.cn/live/15318569/64k.mp3
+
+#EXTINF:-1,CNR-12 阅读之声
+https://satellitepull.cnr.cn/live/wxylgb/playlist.m3u8?wsSession=72f535eaf3f76075172c4974-174908124518436&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+
+#EXTINF:-1,CNR-15 中国交通广播
+https://satellitepull.cnr.cn/live/wxzgjtgb/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908170190549&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+
+#EXTINF:-1,RNZ National AAC (128kbps)
+http://radionz-ice.streamguys.com/National_aac128
+
+#EXTINF:-1,Raggakings雷鬼音乐频道
+https://raggakings.radio:8443/stream.ogg
+
+#EXTINF:-1,T-Radio旅游广播104
+https://stream-143.zeno.fm/4x3gkv9zsy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0eDNna3Y5enN5OHV2IiwiaG9zdCI6InN0cmVhbS0xNDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN3lvNnk1cTNUekN5VDhRQkJXeDF5ZyIsImlhdCI6MTc1NDU1MTE1NSwiZXhwIjoxNzU0NTUxMjE1fQ.XVuvap7Ibxffx4ihDadH3Xs4OSCHCcxu3NizB7BvzmA
+
