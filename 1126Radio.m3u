@@ -1,0 +1,921 @@
+#EXTM3U
+#RADIOBROWSERUUID:9d7f295c-ba89-4903-af7e-0e52b4a2051c
+#EXTINF:-1,BBN 中文
+https://streams.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f
+
+#RADIOBROWSERUUID:e4599290-f353-478d-b920-7e057d049dd5
+#EXTINF:-1,AsiaFM高清音乐台
+http://asiafm.hk:8000/asiahd
+
+#RADIOBROWSERUUID:7b6cc834-566f-4572-92e4-20cd9b5d1471
+#EXTINF:-1,纽约华语广播国语台
+http://mobilewkdm.serverroom.us:6912/;14481715552093544stream.nsv
+
+#RADIOBROWSERUUID:3bf0d2dd-3e2c-425d-8ea3-3240e223b287
+#EXTINF:-1,信阳综合广播
+https://lhttp.qingting.fm/live/5021977/64k.mp3
+
+#RADIOBROWSERUUID:57c4f8b9-0262-4c02-adeb-e68c982f8445
+#EXTINF:-1,信阳平桥广播
+https://lhttp.qingting.fm/live/15318156/64k.mp3
+
+#RADIOBROWSERUUID:a66636e2-6edb-443b-b5a0-9b9b400e73b2
+#EXTINF:-1,RRI Voice Of Indonesia
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+
+#RADIOBROWSERUUID:66fcbb95-d165-11e8-a54a-52543be04c81
+#EXTINF:-1,KBS World Chinese Radio
+http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8
+
+#RADIOBROWSERUUID:c038a859-7be1-11e9-aa30-52543be04c81
+#EXTINF:-1,KBS Classic FM
+http://serpent0.duckdns.org:8088/kbsfm.pls
+
+#RADIOBROWSERUUID:744d4afd-05c2-4c84-b8e9-a64f66bf08fc
+#EXTINF:-1,CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#RADIOBROWSERUUID:9cc87217-fc59-4335-a7d7-050407527f9a
+#EXTINF:-1,Voice of Korea
+https://listen7.myradio24.com/69366
+
+#RADIOBROWSERUUID:40c961b3-7c52-4da1-b956-5728759b2ad4
+#EXTINF:-1,正聲廣播電台FM104
+https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8
+
+#RADIOBROWSERUUID:7e244084-c8fb-11e8-a54a-52543be04c81
+#EXTINF:-1,NHK WORLD RADIO JAPAN
+http://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263949/live_s.m3u8
+
+#RADIOBROWSERUUID:840162e0-6493-4fcb-bca5-4d93b33d1c3e
+#EXTINF:-1,NHK国际广播（华语时间12:00）
+https://nhkwlive-radio.akamaized.net/hls/live/2032383/radio-rs4/index_06.m3u8
+
+#RADIOBROWSERUUID:7880203b-9360-4b12-9d84-37ac1c3f38f4
+#EXTINF:-1,NHK国际广播（华语时间19:30、20:30、21:30、22:30）
+https://nhkwlive-radio.akamaized.net/hls/live/2032381/radio-rs1/index_03.m3u8
+
+#RADIOBROWSERUUID:24105831-9bad-4f68-b4a6-309c0d744037
+#EXTINF:-1,Love Radio Manila
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.mp3
+
+#RADIOBROWSERUUID:d3867b56-dd04-4fdd-aaeb-cd021c239323
+#EXTINF:-1,自由亚洲
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+
+#RADIOBROWSERUUID:431eb0c9-c84c-11e8-a54a-52543be04c81
+#EXTINF:-1,CNR-2 经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+
+#RADIOBROWSERUUID:59e30dda-64bf-11ea-be63-52543be04c81
+#EXTINF:-1,Radio Zet
+http://zet-net-01.cdn.eurozet.pl:8400/
+
+#RADIOBROWSERUUID:24711f7f-8ff5-4141-8e0f-ab17f3da1b89
+#EXTINF:-1,怀集音乐之声
+http://lhttp.qingting.fm/live/4804/64k.mp3
+
+#RADIOBROWSERUUID:2f53bfe1-af12-409d-960a-f9522ed8de80
+#EXTINF:-1,MY FM
+https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBt1aCUAlkmmsnXss9i2gw
+
+#RADIOBROWSERUUID:34089334-2941-436b-9831-e6580363df2f
+#EXTINF:-1,Ai FM
+https://28153.live.streamtheworld.com/AI_FMAAC.aac
+
+#RADIOBROWSERUUID:0e236b90-28b6-4e4a-9e0b-e0c812e449de
+#EXTINF:-1,goXuan
+https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ
+
+#RADIOBROWSERUUID:fa31e2f5-8092-11e9-aa30-52543be04c81
+#EXTINF:-1,MGL Radio
+http://stream17.shoutcastsolutions.com:8096/
+
+#RADIOBROWSERUUID:b1aae7b8-8916-4016-b57a-c2bb08704510
+#EXTINF:-1,Family Radio FM
+https://c2.radioboss.fm/stream/394
+
+#RADIOBROWSERUUID:2d8ae9e8-d207-44fe-8a35-196388626837
+#EXTINF:-1,Pyongyang Radio FM
+https://listen7.myradio24.com/69366
+
+#RADIOBROWSERUUID:fec13e90-590f-4b22-afae-75f27c95bd40
+#EXTINF:-1,全澳华语广播华厦之声
+http://46.4.40.246:8059/stream
+
+#RADIOBROWSERUUID:e31b6087-fd58-4757-aed3-41f8b47b9b5d
+#EXTINF:-1,2AC澳洲华人电台
+https://s1.voscast.com:10557/stream
+
+#RADIOBROWSERUUID:e473dd9e-fd28-407d-8519-d5bc88c1d8ac
+#EXTINF:-1,澳大利亚SBS Radio 1
+https://sbs-ice.streamguys1.com/sbs1-sbs-web
+
+#RADIOBROWSERUUID:e5ec7527-cb54-4632-b5a1-7ee080bb19c0
+#EXTINF:-1,A1中文电台
+http://s2.voscast.com:9530/
+
+#RADIOBROWSERUUID:8e8f1791-1408-49f7-a4fb-b7c7e2fb3636
+#EXTINF:-1,加拿大中文电台FM.96.1
+https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+
+#RADIOBROWSERUUID:8028f1f0-df44-4727-b582-e388de69ab57
+#EXTINF:-1,华语广播网105.9
+http://s3.voscast.com:9272/;stream.mp3
+
+#RADIOBROWSERUUID:cbf75a5a-341a-4962-821d-7201238c6e42
+#EXTINF:-1,新西兰华人之声AM936新超凡
+http://radio.936.nz:8000/am936
+
+#RADIOBROWSERUUID:37d7b395-4780-4a77-bd9b-10ec717c1ca5
+#EXTINF:-1,新西兰华人之声FM994真快活
+http://radio.936.nz:8000/fm994
+
+#RADIOBROWSERUUID:31710261-0b76-11e9-a80b-52543be04c81
+#EXTINF:-1,YES 933 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
+
+#RADIOBROWSERUUID:7036e1ed-0b7d-11e9-a80b-52543be04c81
+#EXTINF:-1,Capital 958 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac
+
+#RADIOBROWSERUUID:4a953750-49f8-46bb-a488-0e428cd7c232
+#EXTINF:-1,CNR-1 中国之声
+http://zbbf2.ahbztv.com/live/4f3.m3u8
+
+#RADIOBROWSERUUID:819e0ecb-fb3d-49de-8d8d-50fd408ff173
+#EXTINF:-1,VOA Chinese Radio
+http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+
+#RADIOBROWSERUUID:ccf73f28-4f96-48f9-9bfc-2bf8cf1548d5
+#EXTINF:-1,自由亚洲
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+
+#RADIOBROWSERUUID:1c0e92f2-ecbd-4608-b6fb-e4db9b3aef6d
+#EXTINF:-1,RFA中文
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+
+#RADIOBROWSERUUID:529c9432-bd9e-11e8-aaf2-52543be04c81
+#EXTINF:-1,Alxa Chinese Radio
+http://lhttp.qingting.fm/live/5022521/64k.mp3
+
+#RADIOBROWSERUUID:0d52333e-3c5b-4cca-98ed-1a5e78b430ae
+#EXTINF:-1,+86 15148304953
+http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+
+#RADIOBROWSERUUID:684fc62f-073d-41aa-9ef8-91b242df3ac4
+#EXTINF:-1,测试16
+https://js1.amtb.cn/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
+
+#RADIOBROWSERUUID:90812afa-6fd4-11e8-83fa-52543be04c81
+#EXTINF:-1,CRI Voice of South China Sea
+http://sk.cri.cn/nhzs.m3u8
+
+#RADIOBROWSERUUID:486e43d0-e25d-4785-9bd4-f2b3ec1ac445
+#EXTINF:-1,测试11
+https://s1-fmt2.liveatc.net/rjoo1?nocache=2022041005004784106
+
+#RADIOBROWSERUUID:4f7be892-7114-4d98-b672-39a5e89c4aa4
+#EXTINF:-1,测试13
+https://s1-fmt2.liveatc.net/rjaa_atis?nocache=2022041005060023921
+
+#RADIOBROWSERUUID:6b5949de-b9ea-4aa1-af15-17dbd30b1b19
+#EXTINF:-1,CBC Radio One - Ottawa, ON (MP3 stream)
+https://playerservices.streamtheworld.com/pls/CBOFM_CBC.pls
+
+#RADIOBROWSERUUID:79e9e311-a2f1-4b36-8e42-8097ed68353f
+#EXTINF:-1,Soho Radio London - Music Channel
+https://sohoradiomusic.doughunt.co.uk:8010/320mp3
+
+#RADIOBROWSERUUID:5b71769e-5f69-4dfd-bc30-481d567278ce
+#EXTINF:-1,华夏之声China FM·意大利罗马FM89.5
+https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream
+
+#RADIOBROWSERUUID:6af0444f-22b9-11ea-aa0c-52543be04c81
+#EXTINF:-1,#1980s Zoom
+https://samcloud.spacial.com/api/listen?sid=111415&rid=194939&f=mp3,any&br=128000,any&m=sc
+
+#RADIOBROWSERUUID:388756ad-5abd-45cd-bc99-50a6b79e92b8
+#EXTINF:-1,新闻听天下
+https://lhttp.qtfm.cn/live/20500169/64k.mp3
+
+#RADIOBROWSERUUID:33178054-56cd-449c-8cf7-412cc7be936a
+#EXTINF:-1,CNN
+https://tunein.cdnstream1.com/2868_96.mp3
+
+#RADIOBROWSERUUID:0c7e5ad0-b89b-466c-867e-a87866eb9a09
+#EXTINF:-1,凤凰卫视中文台
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+
+#RADIOBROWSERUUID:b05b65e3-0936-4e7b-9f07-364cba23d7b2
+#EXTINF:-1,美国之音
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+
+#RADIOBROWSERUUID:3b7d5ee7-dbec-46fa-af65-e0d2de535c15
+#EXTINF:-1,寶島聯播網
+http://125.227.87.206:8000/FM98.5
+
+#RADIOBROWSERUUID:933d3bba-1319-4941-b8a3-dc4e86fe5b62
+#EXTINF:-1,CNR-6 神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+
+#RADIOBROWSERUUID:98e6c0ab-2458-4eb0-8400-c41b525441a7
+#EXTINF:-1,https://www.csbc.com.tw
+http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+
+#RADIOBROWSERUUID:93f83583-6964-4208-9446-15f4c2c51587
+#EXTINF:-1,正聲綜合
+http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+
+#RADIOBROWSERUUID:25970dbd-3591-46b6-bfaa-668e8be26152
+#EXTINF:-1,1766線上電臺-百家知識
+http://livestream.1766.today:1768/live1.mp3
+
+#RADIOBROWSERUUID:50a7e8d6-1e03-4384-908f-5305e83eff65
+#EXTINF:-1,金聲廣播電台
+http://60.249.186.105:9000/;
+
+#RADIOBROWSERUUID:e187df66-74eb-4bcb-ab1b-84538ec2094e
+#EXTINF:-1,VRT Radio 1 (aac)
+http://icecast.vrtcdn.be/radio1.aac
+
+#RADIOBROWSERUUID:947d4da0-76be-4039-afba-8b0fa6a1f894
+#EXTINF:-1,KBS World TV
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#RADIOBROWSERUUID:2930da9c-7279-4c16-8574-080074ddf763
+#EXTINF:-1,香港普通话台
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+
+#RADIOBROWSERUUID:78d75aa7-0d27-4333-a410-d9c82e37cf8f
+#EXTINF:-1,宗教_良友电台 第一台
+https://listen.729ly.net:8001/ly729_a
+
+#RADIOBROWSERUUID:a41c628e-3961-43d2-9aec-91521d00788b
+#EXTINF:-1,中央人民廣播電台 中國之聲
+http://zbbf2.ahbztv.com/live/4f3.m3u8
+
+#RADIOBROWSERUUID:bc6d7454-bc64-42e4-83e7-9ad79de1bd22
+#EXTINF:-1,中央人民廣播電台 經濟之聲
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+
+#RADIOBROWSERUUID:a904acd0-ce9e-4eee-a223-0df64c7b5f7e
+#EXTINF:-1,中央人民廣播電台 音樂之聲
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+
+#RADIOBROWSERUUID:bcab3194-d497-453f-b3ac-644724a18345
+#EXTINF:-1,台山電台
+https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3
+
+#RADIOBROWSERUUID:aa91470c-89dc-48ba-b155-f6455fc2fa74
+#EXTINF:-1,中山環保旅遊之聲
+https://lhttp.qingting.fm/live/1278/64k.mp3
+
+#RADIOBROWSERUUID:6999fe07-c0f3-4d36-ad2c-179bdc749c03
+#EXTINF:-1,澳門綠邨電台
+https://fm995.ddns.net/hls1/fm995.m3u8
+
+#RADIOBROWSERUUID:5a7a719f-ed6b-46fc-a25e-b16d5d373b25
+#EXTINF:-1,CityFM Macau - 90.5 FM
+https://lhttp.qtfm.cn/live/20500153/64k.mp3
+
+#RADIOBROWSERUUID:849c06ea-d61f-45c3-a1d9-87d54d1e86eb
+#EXTINF:-1,M80 Radio Macau - 80s
+https://stream-icy.bauermedia.pt/m8080.aac
+
+#RADIOBROWSERUUID:ed0b8371-2d10-464c-9502-01a142a28804
+#EXTINF:-1,Soho Radio
+https://sohoradiomusic.doughunt.co.uk:8010/128mp3
+
+#RADIOBROWSERUUID:566e2af5-6bae-4061-872e-2d933c84cd2b
+#EXTINF:-1,Radio Maria Chinese
+https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/;stream/
+
+#RADIOBROWSERUUID:30b021a8-04fa-466e-846a-1c4a69048e9d
+#EXTINF:-1,Radio Mast Chinese
+https://streams.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f
+
+#RADIOBROWSERUUID:55c2418b-c361-4684-b380-ad3d921c25c9
+#EXTINF:-1,Hand Of Jesus - CHINESE
+https://dc1.serverse.com/proxy/hojchinese/stream
+
+#RADIOBROWSERUUID:e6f08fdb-dd41-4dac-a01d-47a3d5c5ac35
+#EXTINF:-1,Chinese Music World
+https://radio.chinesemusicworld.com/chinesemusic.ogg
+
+#RADIOBROWSERUUID:77f8567b-bf33-11e8-aaf2-52543be04c81
+#EXTINF:-1,Changchi News Radio
+http://lhttp.qingting.fm/live/5021874/64k.mp3
+
+#RADIOBROWSERUUID:a1fae1d0-04b4-4330-be6c-16ac0fdb884f
+#EXTINF:-1,RADIO RZO CHINA
+https://stream.zeno.fm/5mx670rvzp8uv
+
+#RADIOBROWSERUUID:7442e515-80a7-4ac5-9e06-a5e4880ea811
+#EXTINF:-1,fairchildren radio
+http://icecast01.eseenet.com:8000/am1430
+
+#RADIOBROWSERUUID:2820df91-ff1e-4973-8adf-1afe0336ccd5
+#EXTINF:-1,Music of China 中国音乐
+https://vip.wongsong.cn/proxy/wongsong/stream-mp3-WongSong
+
+#RADIOBROWSERUUID:6f8e0492-d632-4300-8662-197f9fec36ea
+#EXTINF:-1,华夏之声China FM·西班牙马德里FM92.9
+https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream
+
+#RADIOBROWSERUUID:3d4d7515-eed3-4f9b-a0cc-3a5e5b165b12
+#EXTINF:-1,Cinemix电影音乐频道
+http://94.23.51.96:8001/
+
+#RADIOBROWSERUUID:0645c553-ea73-11e8-a471-52543be04c81
+#EXTINF:-1,Tsingchow News Radio
+http://sdqz.chinashadt.com:2036/live/4.stream/playlist.m3u8
+
+#RADIOBROWSERUUID:d701a19f-0a79-41ee-b2e3-6c0bccf39751
+#EXTINF:-1,NUGS-China Radio
+https://stream.zeno.fm/ftap1exq6k8uv
+
+#RADIOBROWSERUUID:a58c57b6-4b2f-4c56-a923-823937d4f536
+#EXTINF:-1,Canton News Radio China
+http://ls.qingting.fm/live/4848.m3u8
+
+#RADIOBROWSERUUID:434ab4b9-252f-44c4-ad71-8f3c8dd9bcff
+#EXTINF:-1,CKWR 98.5  "Real Community Radio" Kitchener, ON 
+https://stream2.statsradio.com:8150/stream
+
+#RADIOBROWSERUUID:6ae2e2fd-be61-11e8-aaf2-52543be04c81
+#EXTINF:-1,Shansi News Radio
+http://lhttp.qingting.fm/live/20491/64k.mp3
+
+#RADIOBROWSERUUID:a8c2621d-d09a-11e8-a54a-52543be04c81
+#EXTINF:-1,Wanchow News TV
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+
+#RADIOBROWSERUUID:28c73396-f7ea-49cf-a201-146bf29b2348
+#EXTINF:-1,CRI中文环球广播·CRI chinese service
+http://sk.cri.cn/hyhq.m3u8
+
+#RADIOBROWSERUUID:96b88cb2-76a4-43fb-9257-e791103f5fa8
+#EXTINF:-1,臺北電台
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+
+#RADIOBROWSERUUID:00a9bccb-0ef6-42ea-94c2-25b0614a7f42
+#EXTINF:-1,星岛中文电台国语广播
+http://nap.casthost.net:8759/;?icy=http
+
+#RADIOBROWSERUUID:3de0db0e-5aa3-498e-ada1-78b9bd599201
+#EXTINF:-1,美国KAZN中文广播
+http://mobilewzrc.serverroom.us:6914/;stream.nsv
+
+#RADIOBROWSERUUID:38ee7cba-f235-4e89-ba9a-60e588af2b82
+#EXTINF:-1,凤凰卫视中文台
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+
+#RADIOBROWSERUUID:18d6e15b-d8c8-4ee8-b7b1-afae96fffc7d
+#EXTINF:-1,紐約華語廣播國語台
+http://mobilewzrc.serverroom.us:6912/;stream.mp3/
+
+#RADIOBROWSERUUID:8ca28b1f-8f5d-4039-a322-52a13630159d
+#EXTINF:-1,美国中文电台-旧金山
+http://radiokest.serverroom.us:6670/;?type=http&nocache=3295
+
+#RADIOBROWSERUUID:94b627b7-7b61-4478-b797-bcb21973c4bf
+#EXTINF:-1,AsiaFM亚洲经典台
+http://goldfm.cn:8000/goldfm
+
+#RADIOBROWSERUUID:06993d81-0b79-11e9-a80b-52543be04c81
+#EXTINF:-1,UFM 100.3 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
+
+#RADIOBROWSERUUID:6be26492-2d96-444d-afa6-91fd5b374bed
+#EXTINF:-1,臺北電台AM
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+
+#RADIOBROWSERUUID:b8c23ab6-8287-45cb-a3e6-36c53cd12216
+#EXTINF:-1,美国中文电台-西雅图
+http://kxparadio.serverroom.us:5852/stream.mp3
+
+#RADIOBROWSERUUID:fd5d7353-3298-4242-918f-dd7ef527b950
+#EXTINF:-1,北京文艺广播
+https://lhttp.qtfm.cn/live/333/64k.mp3
+
+#RADIOBROWSERUUID:5657f90b-4a44-445a-b587-7a8c5244b044
+#EXTINF:-1,RAE - Argentina al mundo
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad35
+
+#RADIOBROWSERUUID:43e049f0-c8f5-11e8-a54a-52543be04c81
+#EXTINF:-1,城市廣播網•台南知音
+http://fm971.cityfm.tw:8080/971.mp3
+
+#RADIOBROWSERUUID:49adeb3e-51b1-4e3a-9c77-6e049ad96899
+#EXTINF:-1,北台灣之聲廣播電台
+http://211.72.65.62:8080/
+
+#RADIOBROWSERUUID:ecec4919-c944-4191-81fd-65915ba18bf2
+#EXTINF:-1,美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+
+#RADIOBROWSERUUID:01685993-6bb3-440d-8946-ff728f66e802
+#EXTINF:-1,生命之光广播电台
+https://stream.radiojar.com/z3ctv2zxm2zuv.m4a
+
+#RADIOBROWSERUUID:c9841899-1752-459e-8364-a9b5a1be3048
+#EXTINF:-1,Tiktok网络电台
+http://ls.qingting.fm/live/5062.m3u8
+
+#RADIOBROWSERUUID:9b2430c5-afb8-4d83-8d95-ce695267c565
+#EXTINF:-1,Ifeng
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+
+#RADIOBROWSERUUID:de7da570-fdd4-4245-858e-40d94387d490
+#EXTINF:-1,加州帕萨迪纳KMRB AM1430中文广播
+http://mobilekmrb.serverroom.us:6916/;stream.nsv
+
+#RADIOBROWSERUUID:0b42d20d-3351-4005-82bb-21a0de5b1233
+#EXTINF:-1,塞浦路斯中文广播
+https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+
+#RADIOBROWSERUUID:935da57a-f1fe-407e-9d65-f0d58bc36792
+#EXTINF:-1,滨海文艺广播
+http://traffic.jbh.tjbh.com/live/FM101.7/playlist.m3u8
+
+#RADIOBROWSERUUID:44b20dae-1bbe-48d1-9f79-3c1f5396ef90
+#EXTINF:-1,正聲廣播公司
+https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+
+#RADIOBROWSERUUID:8e75147d-2a70-475b-8bee-2685e3a3c33b
+#EXTINF:-1,和谐铁路之声
+https://stream.zeno.fm/gzsk9r47sc9uv
+
+#RADIOBROWSERUUID:b1d8bf02-7a1d-4c59-9ee1-3fead65c8ee9
+#EXTINF:-1,滨海音乐广播
+http://traffic.jbh.tjbh.com/live/FM100.5/playlist.m3u8
+
+#RADIOBROWSERUUID:b8c6f80e-b54b-48b8-bdb1-2a9711e61bc1
+#EXTINF:-1,测试7
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#RADIOBROWSERUUID:222127a6-be63-11e8-aaf2-52543be04c81
+#EXTINF:-1,Shansi Agriculture Radio
+http://lhttp.qingting.fm/live/1186/64k.mp3
+
+#RADIOBROWSERUUID:32ac5606-5807-4985-8e7c-2134163f05e8
+#EXTINF:-1,北部湾之声
+https://stream.bbrtv.com:10443/hls/_6ax4Y1MR/_6ax4Y1MR_live.m3u8
+
+#RADIOBROWSERUUID:cdbc454b-f6b1-4c20-a283-bf91f7e64fbc
+#EXTINF:-1,通州人民广播电台-2 阳光广播
+http://lhttp.qingting.fm/live/20211586/64k.mp3
+
+#RADIOBROWSERUUID:911ac1b6-28be-405c-8889-c555e8d8cfb1
+#EXTINF:-1,京津冀之声
+https://lhttp.qtfm.cn/live/5022463/64k.mp3
+
+#RADIOBROWSERUUID:d872fc0c-f978-4295-924c-ccdb565d8b95
+#EXTINF:-1,廊坊交通长书广播
+http://lhttp.qingting.fm/live/3948/64k.mp3
+
+#RADIOBROWSERUUID:1a1baa4b-951a-4c5e-9c2f-2a9f6f8ecb29
+#EXTINF:-1,阳泉综合广播
+http://lhttp.qingting.fm/live/15318568/64k.mp3
+
+#RADIOBROWSERUUID:3be7fdc1-2cc8-4e06-8b21-9afcf94291d9
+#EXTINF:-1,文山综合广播（新）
+http://m3u8.channel.wsrtv.com.cn/nmip-media/audiolive/audio104066/playlist.m3u8
+
+#RADIOBROWSERUUID:4452a837-8bac-450e-a707-b18a53b46686
+#EXTINF:-1,南部新闻综合·南部人民广播电台
+https://lhttp.qingting.fm/live/20525/64k.mp3
+
+#RADIOBROWSERUUID:e3d3e9ed-8a07-4b29-a815-7f0237c79fb0
+#EXTINF:-1,测试3
+https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+
+#RADIOBROWSERUUID:4c06237f-fd7f-4fe4-bfc7-6e2ae0390daf
+#EXTINF:-1,测试27
+http://gctxyc.liveplay.myqcloud.com/gc/ztd_1/index.m3u8
+
+#RADIOBROWSERUUID:7d69491b-b761-11e8-aaf2-52543be04c81
+#EXTINF:-1,Peony River News Radio
+http://lhttp.qingting.fm/live/5022434/64k.mp3
+
+#RADIOBROWSERUUID:07ded195-ab0b-4ae1-9ad6-f27ba18546b8
+#EXTINF:-1,北部湾之声 The Voice of Beibu Gulf
+https://lhttp-hw.qtfm.cn/live/1757/64k.mp3
+
+#RADIOBROWSERUUID:d26b96a1-4fe5-4e45-86b9-2dd210a46aeb
+#EXTINF:-1,CGTN Radio - Macau 1341 AM
+https://sk.cri.cn/am846.m3u8
+
+#RADIOBROWSERUUID:56fac279-3684-4562-bcda-bd7e45410b2a
+#EXTINF:-1,河南信息广播
+https://stream.hndt.com/live/leling/playlist.m3u8
+
+#RADIOBROWSERUUID:5f135b1f-d27d-11e9-a861-52543be04c81
+#EXTINF:-1,天津静海区广播电台
+http://lhttp.qingting.fm/live/20212227/64k.mp3
+
+#RADIOBROWSERUUID:fac57b97-83a9-47b4-874e-a3ab5c3e2bff
+#EXTINF:-1,测试17
+http://cdn71.liveonlineservices.com/hls/stv.m3u8
+
+#RADIOBROWSERUUID:d235dc55-69a0-4aeb-a0fd-2033597d85aa
+#EXTINF:-1,测试24
+http://d.liveatc.net/vhhh5
+
+#RADIOBROWSERUUID:76b72808-097a-4777-91db-6641628e2c34
+#EXTINF:-1,塞浦路斯CCN欧洲中国平台
+https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8
+
+#RADIOBROWSERUUID:fce4aab5-dc3f-4746-a9f6-59ed2392e880
+#EXTINF:-1,国际旅游岛之声
+http://ls.qingting.fm/live/1862.m3u8
+
+#RADIOBROWSERUUID:af4a754c-f724-4ddc-9b52-fea78ae3c510
+#EXTINF:-1,休息音乐🎶
+https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
+
+#RADIOBROWSERUUID:84139b19-58ba-43a4-b133-c577f1cfa522
+#EXTINF:-1,测试8
+https://s1-fmt2.liveatc.net/vhhh5?nocache=2022041008372197157
+
+#RADIOBROWSERUUID:e2304861-a690-4f77-881e-6705d8475833
+#EXTINF:-1,测试15
+https://s1-fmt2.liveatc.net/rjtt_atis?nocache=2022041008015119728
+
+#RADIOBROWSERUUID:a5bffcf2-3924-40a7-998a-221011fb0a20
+#EXTINF:-1,雨声
+https://stream.zeno.fm/ckptaagp6x8uv
+
+#RADIOBROWSERUUID:76437e18-2239-4501-b162-f158e5a9937d
+#EXTINF:-1,一个个人私用的歌单
+https://stream.zeno.fm/rzsc1h2izunuv
+
+#RADIOBROWSERUUID:6c36b453-62af-4888-a512-b36c93e98e8f
+#EXTINF:-1,中式婚礼后音乐
+https://stream.zeno.fm/pd3m209fnxhvv
+
+#RADIOBROWSERUUID:a48608d3-c84e-11e8-a54a-52543be04c81
+#EXTINF:-1,CNR-15 高速公路交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+
+#RADIOBROWSERUUID:46c79dfa-1a99-4139-a052-81c434f259dd
+#EXTINF:-1,Fred Film Radio(中文)
+https://s10.webradio-hosting.com/proxy/fredradiocn/stream
+
+#RADIOBROWSERUUID:89ab8a96-2067-4bf1-968c-20f7cf192836
+#EXTINF:-1,     
+https://vip1.fhbf9.com/20210705/63Zb2fOi/index.m3u8
+
+#RADIOBROWSERUUID:a54230e2-3f61-4a64-b70d-31ee2ba9d2ae
+#EXTINF:-1,我的音乐分享
+https://stream.zeno.fm/fgbm7mgdjucvv
+
+#RADIOBROWSERUUID:cd8ebd62-a542-48b0-82cd-eca8ffb639ee
+#EXTINF:-1,九江年代音乐台
+https://lhttp.qingting.fm/live/20212210/64k.mp3
+
+#RADIOBROWSERUUID:3b621e6d-401a-4354-bb12-51ebd6d6d844
+#EXTINF:-1,RFA Chinese
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+
+#RADIOBROWSERUUID:701e4c8c-b2c2-42db-a535-65ac13de0e0f
+#EXTINF:-1,CNR-1 中国之声
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8?
+
+#RADIOBROWSERUUID:98932240-53ef-407c-ba44-60acc3825e92
+#EXTINF:-1,纽约华语广播国语台
+http://mobilewkdm.serverroom.us:6912/;14481715552093544stream.nsv
+
+#RADIOBROWSERUUID:f1dc8d83-40b9-4d37-be99-5722ca4db0b7
+#EXTINF:-1,RRI Pro1 Banjarmasin
+https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3
+
+#RADIOBROWSERUUID:21216932-11ca-47c6-8cef-a3f7192de15e
+#EXTINF:-1,Ifeng (Phoenix TV)
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+
+#RADIOBROWSERUUID:1d292363-5de8-47b0-9de9-85a2c0d4247d
+#EXTINF:-1,Radio Nacional d'Andorra 91.4 MHz FM (CDN)
+https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/023/playlist.m3u8
+
+#RADIOBROWSERUUID:279027e0-2f13-4f7e-91fd-8aa40c41b05e
+#EXTINF:-1,VOA Macau
+http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+
+#RADIOBROWSERUUID:a598b0a8-6863-4dac-9a62-74ceb084f39f
+#EXTINF:-1,RTI 臺灣之音
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
+
+#RADIOBROWSERUUID:a04e099e-c0b7-46f5-b4ad-ed9f669b394d
+#EXTINF:-1,寶島新聲廣播電台
+http://125.227.87.206:8000/FM98.5
+
+#RADIOBROWSERUUID:af7cf56a-a366-47fc-bbb4-e6c4bd5b2ec6
+#EXTINF:-1,城市廣播網-台南知音
+http://fm971.cityfm.tw:8080/971.mp3
+
+#RADIOBROWSERUUID:b5df648d-40c8-4b64-bb75-f258e7602b1e
+#EXTINF:-1,Rti Radio Taiwan Internacional
+https://es-static.rti.org.tw/assets/audio/2022/09/19/20220919_2200_0086_es.mp3
+
+#RADIOBROWSERUUID:4c7d3d26-6339-4535-a4e6-98284f519cbc
+#EXTINF:-1,正聲綜合
+http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+
+#RADIOBROWSERUUID:65a4ed77-3097-4d46-9d10-5257bedf7d7a
+#EXTINF:-1,Music of China 中国音乐
+https://vip.wongsong.cn/proxy/wongsong/stream-mp3-WongSong
+
+#RADIOBROWSERUUID:3d11b752-4868-40e0-b792-16bbf2c91e07
+#EXTINF:-1,CNR 阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+
+#RADIOBROWSERUUID:9936ad1a-fffe-4675-99ef-8bf6425826f9
+#EXTINF:-1,蒙古之声
+https://api.xmgspace.me/api/vom-latest/
+
+#RADIOBROWSERUUID:f9901ecd-a20f-4f20-9727-7eb2de023e47
+#EXTINF:-1,第一财经
+https://live.xmcdn.com/live/56/64.m3u8
+
+#RADIOBROWSERUUID:55b58c7a-a175-4518-9936-3279059f8f0e
+#EXTINF:-1,第一财经电视伴音
+http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
+
+#RADIOBROWSERUUID:abbee82e-0b7b-11e9-a80b-52543be04c81
+#EXTINF:-1,SPH 963 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
+
+#RADIOBROWSERUUID:7a54e715-467f-47c1-8785-b812719170d2
+#EXTINF:-1,屏東大武山廣播
+http://59.120.255.171:8081/
+
+#RADIOBROWSERUUID:cc4f14eb-2268-4542-9289-94d8685829a0
+#EXTINF:-1,滨海综合广播 100.1
+http://traffic.jbh.tjbh.com/live/FM100.1/playlist.m3u8
+
+#RADIOBROWSERUUID:ade48209-4c9d-4d1c-be46-978c7eeb491b
+#EXTINF:-1,广西文艺广播
+https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8
+
+#RADIOBROWSERUUID:a9e478a3-b033-4f29-87a1-986be284a46f
+#EXTINF:-1,河北文艺广播
+https://radio.pull.hebtv.com/live/hebwy.m3u8
+
+#RADIOBROWSERUUID:a11a6322-f533-4a9e-9d0b-6f14906b433c
+#EXTINF:-1,廊坊综合广播
+https://lhttp.qingting.fm/live/3948/64k.mp3
+
+#RADIOBROWSERUUID:608ed776-0c15-11e8-ae97-52543be04c81
+#EXTINF:-1,VOA Chinese
+http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11
+
+#RADIOBROWSERUUID:97fc1a96-a769-11e9-a787-52543be04c81
+#EXTINF:-1,美国之音voa
+https://stream.radiojar.com/7thwu53r92quv
+
+#RADIOBROWSERUUID:bfce025c-fb60-44a4-885e-011ec39d8f57
+#EXTINF:-1,TRT Radyo Haber
+https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+
+#RADIOBROWSERUUID:a781a6da-a41f-498d-92f5-aede46952d54
+#EXTINF:-1,RFI-Chinese
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+
+#RADIOBROWSERUUID:7cafb834-81c4-4155-bccc-11e189206494
+#EXTINF:-1,VOV TV
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+
+#RADIOBROWSERUUID:8718e66e-1d39-456e-bfe1-01489b013a33
+#EXTINF:-1,VOV3
+http://media.kythuatvov.vn:7005/;stream/
+
+#RADIOBROWSERUUID:0ed4232a-a293-11e8-abb8-52543be04c81
+#EXTINF:-1,SBS Chill
+http://sbs-ice.streamguys1.com/sbschill
+
+#RADIOBROWSERUUID:7078d270-62b8-49c3-a729-ad325d60d29c
+#EXTINF:-1,SBS PopAsia
+https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
+
+#RADIOBROWSERUUID:87ad7c78-ec81-48b7-ba30-32aaef6abe7d
+#EXTINF:-1,Australian Digital Radio Network - New 1970s Style (MP3)
+http://abm21.com.au:8000/CONTAINER84
+
+#RADIOBROWSERUUID:3cae3864-217f-4032-b3dc-61b0b33741f1
+#EXTINF:-1,RTRFM
+https://live.rtrfm.com.au/stream1
+
+#RADIOBROWSERUUID:8281de8e-8772-472e-aad2-9a744a4ecefd
+#EXTINF:-1,CMS RADIO
+https://c13.radioboss.fm:18190/stream
+
+#RADIOBROWSERUUID:2bf82625-6e78-445d-afff-e51e53c369a9
+#EXTINF:-1,CCTV-13新闻伴音
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+
+#RADIOBROWSERUUID:ab0cc7f6-df03-4923-ac83-f4a7d8c55916
+#EXTINF:-1,国际新闻
+https://lhttp.qtfm.cn/live/20500172/64k.mp3
+
+#RADIOBROWSERUUID:951b325b-5b78-45ef-bebf-88f9a0f6c250
+#EXTINF:-1,华语金曲500首
+http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+
+#RADIOBROWSERUUID:ef678e2d-beea-40a2-b152-f73d57de4f52
+#EXTINF:-1,CRI环球资迅广播
+https://sk.cri.cn/905.m3u8
+
+#RADIOBROWSERUUID:0cfa6e11-54f7-4ed1-8bb9-98277f101494
+#EXTINF:-1,RRI
+https://dattavolt.com/8164/stream
+
+#RADIOBROWSERUUID:d153a666-dc9d-4942-8efc-6c1b51135f15
+#EXTINF:-1,Radio Cartier Romania
+https://live.radiocartier.eu:8048/stream
+
+#RADIOBROWSERUUID:4a59d1f8-8496-4197-b4b4-37febe87cf9b
+#EXTINF:-1,TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+
+#RADIOBROWSERUUID:2316a4cf-5f76-4980-9175-1762d6e617f6
+#EXTINF:-1,twr-india-tamil
+https://fm.radio882.com/radio/8010/tamil.mp3
+
+#RADIOBROWSERUUID:8a4a8c95-6a4f-11e9-af37-52543be04c81
+#EXTINF:-1,RNZ Pacific (64kbps)
+http://radionz-ice.streamguys.com/international_aac64
+
+#RADIOBROWSERUUID:b4ed66ec-77cf-11e9-aa30-52543be04c81
+#EXTINF:-1,RNZ - Radio New Zealand International
+http://radionz-ice.streamguys.com/international.mp3
+
+#RADIOBROWSERUUID:e7efcff9-e9c3-4598-b7a2-8dd7cc873d9d
+#EXTINF:-1,Voice of Life Radio
+https://cdn.comeseetv.com:8000/vol
+
+#RADIOBROWSERUUID:ebf4314c-ba8a-11e8-aaf2-52543be04c81
+#EXTINF:-1,Kiangsu Voice of Kingling Radio
+http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
+
+#RADIOBROWSERUUID:9644d860-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,Radio Romania International
+http://stream2.srr.ro:8052/;
+
+#RADIOBROWSERUUID:0ab8efd5-9110-4fc0-a961-f397d00ea93f
+#EXTINF:-1,德云社相声合集
+https://stream.zeno.fm/yqawwmweq8mtv
+
+#RADIOBROWSERUUID:7ce50274-160a-43b6-a023-782897576f9e
+#EXTINF:-1,VOV Giao thông Hà Nội
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+
+#RADIOBROWSERUUID:510aeeac-e7a0-41c2-aea2-e572e811ffe7
+#EXTINF:-1,Fox News Radio
+https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
+
+#RADIOBROWSERUUID:3e7ad9d1-17e6-4b74-a5b7-9d5654c20d3c
+#EXTINF:-1,RTHK Radio 6 央廣香港之聲
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+
+#RADIOBROWSERUUID:5d6f4010-91b7-11e9-a6c6-52543be04c81
+#EXTINF:-1,香港普通话台
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
+
+#RADIOBROWSERUUID:3faf8d23-bae1-4724-8201-89e0cc66fa21
+#EXTINF:-1,綠邨
+https://fm995.ddns.net/hls1/fm995.m3u8
+
+#RADIOBROWSERUUID:70360a67-cf9b-45e8-957d-c2c1900ebf9b
+#EXTINF:-1,CNR-5 中华之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+
+#RADIOBROWSERUUID:4b69f9bb-9c13-4b01-a19b-fc2e8c5b21a9
+#EXTINF:-1,台中廣播
+http://211.20.119.101:8081/
+
+#RADIOBROWSERUUID:397481b9-2120-4445-8368-3d3dccd4fda6
+#EXTINF:-1,城市廣播網-城市廣播
+http://fm929.cityfm.tw:8080/929.mp3
+
+#RADIOBROWSERUUID:d4dc105c-c8f4-11e8-a54a-52543be04c81
+#EXTINF:-1,城市廣播網•大苗栗廣播
+http://fm983.cityfm.tw:8080/983.mp3
+
+#RADIOBROWSERUUID:fff132f1-0b79-11e9-a80b-52543be04c81
+#EXTINF:-1,Love 972 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac
+
+#RADIOBROWSERUUID:8a9c4662-0b7c-11e9-a80b-52543be04c81
+#EXTINF:-1,Jia 883 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
+
+#RADIOBROWSERUUID:7122f761-9a93-48be-834c-a3c718bb54f5
+#EXTINF:-1,Singapore Chinese POP YES FM 933
+https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore
+
+#RADIOBROWSERUUID:8d4d2ada-c57c-46d6-b67d-aba881f9587a
+#EXTINF:-1,1766線上電臺-百家知識
+http://livestream.1766.today:1768/live1.mp3
+
+#RADIOBROWSERUUID:3a83ee6a-b61d-4649-9be0-b4357a00329f
+#EXTINF:-1,VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+
+#RADIOBROWSERUUID:2ec55b10-859d-11e9-aa30-52543be04c81
+#EXTINF:-1,rfi
+http://live02.rfi.fr/rfimonde-32.mp3
+
+#RADIOBROWSERUUID:041fd8c1-df76-4173-bb88-1fb3728c5e8f
+#EXTINF:-1,河南戏曲广播
+https://stream.hndt.com/live/yule/playlist.m3u8
+
+#RADIOBROWSERUUID:40f008bb-bae0-4a53-805b-3bc654899d66
+#EXTINF:-1,大自然白噪音
+https://stream.zeno.fm/vg54x7r1exhvv
+
+#RADIOBROWSERUUID:29051e39-bc57-46e1-b348-95622ae695f3
+#EXTINF:-1,LIVESSHHS
+https://stream.zeno.fm/f5j1tup1srouv
+
+#RADIOBROWSERUUID:2c5b06bb-d857-4ece-b250-caedc7454355
+#EXTINF:-1,听·越剧
+https://lhttp.qtfm.cn/live/20500178/64k.mp3
+
+#RADIOBROWSERUUID:d66983fd-f77a-4cbb-af5a-67be79f56bdb
+#EXTINF:-1,测试22
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#RADIOBROWSERUUID:5fbfc72e-840f-4596-832b-536d61c34e88
+#EXTINF:-1,V家电台·Vocaloid Radio
+http://curiosity.shoutca.st:8019/stream
+
+#RADIOBROWSERUUID:9618f4fb-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,RTHK Putonghua Channel
+http://stm.rthk.hk/radiopth
+
+#RADIOBROWSERUUID:a03ad8aa-24ac-403a-8c69-617ad0ce9a45
+#EXTINF:-1,CRI世界华声
+http://sk.cri.cn/hxfh.m3u8
+
+#RADIOBROWSERUUID:2ec6fe9f-96ab-44a8-9a8a-5a191a5aadb7
+#EXTINF:-1,天津新闻广播
+https://lhttp-hw.qtfm.cn/live/5022134/64k.mp3
+
+#RADIOBROWSERUUID:a3d3ffe7-bd9e-11e8-aaf2-52543be04c81
+#EXTINF:-1,Alxa Mongolian Radio
+http://lhttp.qingting.fm/live/5022555/64k.mp3
+
+#RADIOBROWSERUUID:728cda2c-7b14-485a-a0a1-77bbfdd0e841
+#EXTINF:-1,天津经济广播
+https://lhttp-hw.qtfm.cn/live/15318227/64k.mp3
+
+#RADIOBROWSERUUID:e4281440-aec0-402e-a73d-4168d11c32bc
+#EXTINF:-1,河南卷卷猫电台
+http://lhttp.qingting.fm/live/20500038/64k.mp3
+
+#RADIOBROWSERUUID:78012206-1aa1-11e9-a80b-52543be04c81
+#EXTINF:-1,MANGORADIO
+http://stream.mangoradio.de/
+
+#RADIOBROWSERUUID:c67881f5-c0a4-40dd-9342-484fe3daa039
+#EXTINF:-1,CBS 88.8
+http://s5.voscast.com:9908/EYOBUJJAJJA
+
+#RADIOBROWSERUUID:050db29a-6c07-4db8-a407-5dec7b1f0009
+#EXTINF:-1,CMG环球资讯广播
+https://sk.cri.cn/905.m3u8
+
+#RADIOBROWSERUUID:9ffb68ce-f5c4-4c42-a350-d48320ec2f3e
+#EXTINF:-1,光华之声（测试）
+http://202.39.43.67:1935/live/RA000077/playlist.m3u8
+
+#RADIOBROWSERUUID:def1acdc-828b-4d71-a0fc-081a1fffa34c
+#EXTINF:-1,印度德里广播电台
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23132kbps.m3u8
+
+#RADIOBROWSERUUID:9641a217-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,TWR.NL - Richt je hart op God
+http://twrnl.out.airtime.pro:8000/twrnl_a
+
+#RADIOBROWSERUUID:2c59da7b-3ac1-481a-8c8e-656163382326
+#EXTINF:-1,VOA Macau
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+
+#RADIOBROWSERUUID:54064684-9e8c-45ad-85b9-4dd90d8ee01c
+#EXTINF:-1,RRI Voice of Indonesia
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+
+#RADIOBROWSERUUID:9605c5a4-0601-11e8-ae97-52543be04c81
+#EXTINF:-1,WKNL "100.9 K HITS" New London, CT
+http://playerservices.streamtheworld.com/m3u/WKNLFMAAC.m3u
+
+#RADIOBROWSERUUID:0a83de69-837b-4a24-8e59-dbe87dc75c9f
+#EXTINF:-1,Voice of Chongro
+https://stream.zeno.fm/oldwnjuma3duv
+
+#RADIOBROWSERUUID:04e4eedd-87fa-4ec0-b97f-2def5c9ab456
+#EXTINF:-1,云南国际广播
+http://gbw.ynradio.com/radio/gjgb.stream/playlist.m3u8
+
