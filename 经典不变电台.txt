@@ -1,0 +1,43 @@
+100251	加拿大中文电台						3	5	50K					https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+100252	加拿大华语广播							1						http://s3.voscast.com:9272/;stream.mp3
+100246	澳洲2AC华人电台							1						http://s1.voscast.com:10442/stream
+100249	全澳洲华语AM1629						0	5	48K					http://46.4.40.246:8059/stream
+100031	RTI台广						3	4	66K					https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+100253	CS正声电台						3	5	66K					http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+31	NHKLLL													https://nhkwlive-radio.akamaized.net/hls/live/2032383/radio-rs4/index_06.m3u8
+100011	CNR 台海之声						3	1	189K					http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+100032	CRI 环球中文资讯广播FM91.5						3	5	258K					http://sk.cri.cn/915.m3u8
+30	加拿大中													https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8
+29	RTI-亚洲（备）													https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
+100021	BCC 中广新闻						0	5	63K					http://stream.rcs.revma.com/78fm9wyy2tzuv
+12	正声电台													https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+9	印尼asia													http://103.135.212.10:9525/Mandarin/
+10	ISlam Chinese													http://islamicbulletin.site:8036/stream
+8	VOM中文新闻													https://api.xmgspace.me/api/vom-latest/
+7	KBS中文新闻													https://api.xmgspace.me/api/kbs-stream/
+6	NHK中文新闻													https://api.xmgspace.me/api/nhk-latest-news/
+5	TRT（小马哥提供）													https://bbx.xmgspace.me/radio/trt/master.m3u8
+3	法广播客													https://share.bluepill.life/podcast/1571500233
+2	NHK 播客													https://share.bluepill.life/podcast/136050650
+16	taiwan FM99.1													http://125.227.87.206:8000/FM99.1
+14	TaipeiBS Ho Hi Yan													https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+13	RTI3													https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+1	NHK													https://share.bluepill.life/podcast/136050650
+100219	金华超市音乐						2	5	96K					http://122.226.251.18:8000/
+100091	生命之光电台						3	1	34K					https://radio.lifebroadcast.net/live/4cpj13mfv8fwg1a1m2gr4k5xw0/index.m3u8
+22	HKTV													https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+100187	阅读AM						2	1	64K					https://lhttp.qtfm.cn/live/1883/64k.mp3
+100176	Singapore U FM						2	4	96K					http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3
+100192	天津滨海文艺FM101.7						3	5	63K					http://traffic.jbh.tjbh.com/live/FM101.7/playlist.m3u8
+27	天津交通FM106.8													http://traffic.jbh.tjbh.com/live/FM106.8/playlist.m3u8
+17	CHFM88.7													http://taiwan-radio.tw:8000/CH.FM88.7
+100269	RV梵蒂冈						2	5	128K					https://bbx.xmgspace.me/radio/rv/stream-zh
+100188	法广电台						2	5	64K					https://bbx.xmgspace.me/radio/rfi/rfienchinois-64.mp3
+15	taiwan FM99.1													http://125.227.87.206:8000/FM99.1
+20	CHAM1188													http://taiwan-radio.tw:8000/TN.AM1188
+100233	TRAIN火车旅行音乐和谐铁路之声						2	1	128K					https://stream-176.zeno.fm/gzsk9r47sc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnenNrOXI0N3NjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoielVZemVUaXpUQnlCN1BFT2tHYTREdyIsImlhdCI6MTczMTQwMTA0MCwiZXhwIjoxNzMxNDAxMTAwfQ.f3fUhploywa_c9ylFKM2rTGjhKY_OWPP6ve1Y1ARVXA
+100266	古典音乐						0	5	48K					http://media-the.musicradio.com/ClassicFM-M-Movies
+100263	轻音乐欣赏						2	4	128K					https://stream-154.zeno.fm/5uyxq85zm7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1dXl4cTg1em03enV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVG1VM0dQVXZUN0tpSEhQcTZhM2l0ZyIsImlhdCI6MTczMTg4MjI2OSwiZXhwIjoxNzMxODgyMzI5fQ.WJ6oJkvM1Kdd8L7SpgCnkCvJlqo-pyj6I1dWyzxspmU
+100127	金华之声电台							1						https://streannlivergv.cachefly.net/Protected/sp=1;dirmatch=true/4fdefdc468d50b72a81dd024d99398d29345d80d51dae20814da01b602f320d7/rgv/rgv/playlist.m3u8
+100223	SVOA						2	1	128K					http://stream.radiojar.com:80/7thwu53r92quv
+11	NHK—													https://api.xmgspace.me/api/nhk-latest-news/
